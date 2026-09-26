@@ -1,0 +1,6 @@
+{
+  "name": "Christmas Answers & Bible Hub",
+  "description": "Christmas Answers school hub featuring a dedicated Bible question-and-answer section, Nativity scriptures, interactive quiz, and community roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
